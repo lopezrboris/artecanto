@@ -1,0 +1,7 @@
+{
+  fechas: [
+    {titulo: "concierto libre", fecha: new Date(), lugar: "Alemania - Concervatorio"},
+    {titulo: "Concierto pagado", fecha: new Date(), lugar: "Barcelona - Museo central"},
+    {titulo: "Concierto auto-financiado", fecha: new Date(), lugar: "Paris - Unesco"}
+  ]
+}
